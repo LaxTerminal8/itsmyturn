@@ -1,2 +1,4 @@
-# itsmyturn
-Aggressive 
+Action:fight
+Read.true
+Finish.never
+
